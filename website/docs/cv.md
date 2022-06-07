@@ -13,10 +13,11 @@ date: "1/06/2022"
 
 
 ## ABOUT ME
-<p class="align-text">Considero-me uma pessoa facil de conviver, tanto profissionalmente como socialmente. Gosto de me manter organizado para facilitar o trabalho tanto a mim como ao proximo.
-A nivel profissional sou ambicioso, proativo, exigente comigo mesmo, esforcado para aprender onde erro e tento sempre manter uma boa relacao com todos os que me rodeam. Nos meus tempos livres costumo praticar desporto, quer seja fazer musculacao ou jogar basquetebol.  
+<p class="align-text">I consider myself an easy person to deal with, both professionally and socially. I like to stay organized to make work easier for myself and others.
+ I am ambitious, proactive, demanding with myself, I strive to learn where I went wrong before, and I always try to maintain a good relationship with everyone around me. In my spare time I usually play sports, whether it's going to the gym or playing basketball.
 
-Futuramente procuro estar envolvido em ambientes de evolucao ativa, onde todos possamos aprender uns com os outros, sem ambientes toxicos ou egoistas. Para mim nunca e tarde para aprender ou reaprender algo.</p>
+In the future I'd like to be in an environment where I can evolve quickly, and where I can learn with the rest of the team without toxic or selfish mentalities.
+In my opinion it is never too late to learn or even relearn something</p>
 
 ## EMPLOYMENT HISTORY 
 ### Developer at Deloitte 
@@ -33,11 +34,11 @@ In order to automate data uploads every morning to the database (monthly or dail
 #### Second Client<font size="2"> (Managed Services)</font>
 
 
-This client was a Canadian Insurance Company that helped newer teams with time-to-market. I worked there as a member of the Managed Services Team with the responsabilities of analyzing and fixing production defects using **[Gosu](https://gosu-lang.github.io/ )** (Java) and **[Guidewire](https://www.guidewire.com/)**.
+This client was a canadian insurance company that helped newer teams with time-to-market. I worked there as a member of the Managed Services Team with the responsabilities of analyzing and fixing production defects using **[Gosu](https://gosu-lang.github.io/ )** (Java) and **[Guidewire](https://www.guidewire.com/)**.
 
 #### Third Client<font size="2"> (Quality Assurance Team)</font>
 
-At Portage ensured that the software meets quality standards before deployment, create tests, running tests, testing the software function on Policy Center, Billing Center and Claim Center for End to End (E2E) Team.
+In this project I worked for another large canadian insurance company. I ensured that the software met quality standards before deployment, created tests and tested the software function on Policy Center, Billing Center and Claim Center for End to End (E2E) Team.
 
 ## CERTIFICATIONS
 - OutSystems 11 Tradicional Web Developer
