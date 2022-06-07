@@ -1,4 +1,5 @@
 ---
+slug: /
 title: Curriculum Vitae
 author: "Aires Almeida"
 date: "1/06/2022"
